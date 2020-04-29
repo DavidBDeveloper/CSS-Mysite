@@ -1,0 +1,140 @@
+/****************************TAG SECCTION**********************************/
+body{
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Laila', serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 437%;
+  font-weight: bold;
+  color: #66BFBF;
+  }
+h2{
+  color: #66BFBF;
+  font-size: xx-large;
+  padding-bottom: 10px;
+}
+h3{
+  color: #11999E;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 4%;
+  border-top-width: 7px;
+  border-top-color: grey;
+  margin: 70px auto;
+}
+p{
+  font-family: 'Noto Serif TC', serif;
+  color: #40514E;
+  line-height: 2;
+}
+
+  /****************************CLASS SECCTION**********************************/
+.bottom-container{
+  background-color: #66BFBF;
+  margin: 60px auto 0;
+  padding: 30px 0 30px 0;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 375px;
+}
+.btn {
+	box-shadow: 0px -5px 0px -4px #9fb4f2;
+	background:linear-gradient(to bottom, #8affff 5%, #66bfbf 100%);
+	background-color:#8affff;
+	border-radius:42px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Laila', serif;
+	font-size:19px;
+	padding:11px 11px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #99acdb;
+  margin-top: 15px;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #66bfbf 5%, #8affff 100%);
+	background-color:#66bfbf;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.contact-me{
+  width: 40%;
+  margin: auto;
+}
+.footer-link{
+  color: #11999E;
+  padding: 0 20px 0 20px;
+  text-decoration: none;
+  font-family: 'Noto Serif TC', serif;
+}
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+.middle-container{
+}
+.profile{
+  margin: auto;
+  width: 30%;
+  text-align: center;
+}
+.profile-img{
+  border-radius: 50%;
+  margin-top: 70px;
+}
+.skill-img-civil{
+  border-radius: 50%;
+  width: 25%;
+  border: 5px solid black;
+  float:left;
+  margin-right: 30px;
+}
+.skill-img-trade{
+  border-radius: 50%;
+  width: 25%;
+  border: 5px solid black;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row{
+  margin: 80px auto;
+  width: 50%;
+  text-align: left;
+}
+.span-p1{
+  text-decoration: underline overline;
+}
+.top-cloud{
+  position: absolute;
+  left: 825px;
+  top: 50px;
+}
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+  /****************************ID SECCTION**********************************/
+#p1{
+  font-family: 'Laila', serif;
+  color: #66BFBF;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+#p2{
+  color: #EAF6F6;
+  font-size: small;
+}
